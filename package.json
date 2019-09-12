@@ -1,11 +1,15 @@
 {
   "name": "rnfireauth",
   "version": "0.0.1",
-  "private": true,
+  "license": "MIT",
   "scripts": {
     "start": "react-native start",
     "test": "jest",
     "lint": "eslint ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:Ccastillo06/react-native-firebase-auth.git"
   },
   "dependencies": {
     "react": "16.8.6",
